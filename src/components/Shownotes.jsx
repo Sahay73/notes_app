@@ -77,12 +77,7 @@ const Notessaver=()=>{
         <div className="output-textarea-continer">
    
   
-  <PieChart className="pie"
-  data={[
-    { title: 'One', value: 10, color: '#E38627'},
-    { title: 'Two', value: 15, color: '#C13C37' },
-    { title: 'Three', value: 2, color: '#6A2135' },
-  ]}/>;
+  
   
 
             {
